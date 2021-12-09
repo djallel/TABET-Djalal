@@ -6,7 +6,7 @@
  
  
  <properties>
- 	<jackson.version>2.7.4</jackson.version>
+ 	<jackson.version>2.9.10.8</jackson.version>
  </properties>
  
  
